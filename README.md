@@ -19,6 +19,7 @@ First, clone the repository:
 git clone https://github.com/thedemonsid/anirithm.git
 cd anirithm
 npm install
+``````
 
 ## Available Scripts
 
