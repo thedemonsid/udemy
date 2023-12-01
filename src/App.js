@@ -30,9 +30,9 @@ function Navbar() {
       <div className="flex justify-around items-center py-2">
         <div className="text-xl">udemy</div>
         <div>categories</div>
-        <div className="flex border border-slate-700 rounded-full w-150">
+        <div className="flex border border-slate-600 rounded-xl w-250">
           <input
-            className="focus:border-0 w-full px-3"
+            className=" w-[40em] px-3"
             type="text"
             placeholder="Search"
           />
